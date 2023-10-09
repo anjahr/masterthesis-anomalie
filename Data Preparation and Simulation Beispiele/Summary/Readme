@@ -1,0 +1,2 @@
+This folder provides summaries. 
+'Summary_all.csv' contains summary information about the NAB Dataset, including stationarity types, reproduction results for TAnoGAN (with associated thresholds), and reproduction results for TadGAN. TadGAN's results are presented as a combination of error scores, which include the multiplication of Dynamic Time Warping (DTW) and critic error, as well as additional error combinations used in Orion-ML pipelines (if available).
